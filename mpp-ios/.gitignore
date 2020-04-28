@@ -1,0 +1,7 @@
+.DS_Store
+Build
+DerivedData
+Carthage
+mpp-mobile.xcodeproj/xcuserdata
+mpp-mobile.xcodeproj/project.xcworkspace/xcuserdata
+mpp-mobile.xcodeproj/project.xcworkspace/xcshareddata

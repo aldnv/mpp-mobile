@@ -1,0 +1,3 @@
+rootProject.name='mpp-mobile'
+include ':app'
+include ':mpp-shared'

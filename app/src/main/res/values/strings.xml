@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mpp-mobile</string>
+
+    <string name="next_title">Next</string>
+    <string name="error_text">Error</string>
+    <string name="error_action_text">Repeat</string>
+</resources>
